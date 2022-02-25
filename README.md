@@ -10,10 +10,10 @@
 | 02 | [A + B 问题](https://github.com/stevenling/lintcode-new-hand-fifty-problems/blob/main/docs/02-A%20%2B%20B%20%E9%97%AE%E9%A2%98.md) | 
 | 03 | [巴什博弈](https://github.com/stevenling/lintcode-new-hand-fifty-problems/blob/main/docs/03-%E5%B7%B4%E4%BB%80%E5%8D%9A%E5%A5%95.md) | 
 | 04 | [计算圆周长和面积](https://github.com/stevenling/lintcode-new-hand-fifty-problems/blob/main/docs/04-%E8%AE%A1%E7%AE%97%E5%9C%86%E5%91%A8%E9%95%BF%E5%92%8C%E9%9D%A2%E7%A7%AF.md) | 
-| 05 | [简单计算器]() | 
-| 06 | [三数之中的最大值]() | 
-| 07 | [大小写转换]() | 
-| 08 | [判断数字与字母字符]() | 
+| 05 | [简单计算器](docs/05-简单计算器.md) | 
+| 06 | [三数之中的最大值](docs/06-三数之中的最大值.md) | 
+| 07 | [大小写转换](docs/07-大小写转换.md) | 
+| 08 | [判断数字与字母字符](docs/08-判断数字与字母字符.md) | 
 | 09 | []() | 
 | 10 | []() | 
 | 11 | []() | 
