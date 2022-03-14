@@ -14,18 +14,18 @@
 ### 2.2 判断语句
 | 序号 | 题目 |
 | :----:| :----: | 
-| 05 | [简单计算器](docs/05-简单计算器.md) | 
-| 06 | [三数之中的最大值](docs/06-三数之中的最大值.md) | 
-| 07 | [大小写转换](docs/07-大小写转换.md) | 
-| 08 | [判断数字与字母字符](docs/08-判断数字与字母字符.md) | 
-| 09 | [月份天数](docs/09-月份天数.md) | 
-| 10 | [闰年](docs/10-闰年.md) | 
+| 05 | [简单计算器](https://github.com/stevenling/lintcode-new-hand-fifty-problems/blob/main/docs/05-简单计算器.md) | 
+| 06 | [三数之中的最大值](https://github.com/stevenling/lintcode-new-hand-fifty-problems/blob/main/docs/06-三数之中的最大值.md) | 
+| 07 | [大小写转换](https://github.com/stevenling/lintcode-new-hand-fifty-problems/blob/main/docs/07-大小写转换.md) | 
+| 08 | [判断数字与字母字符](https://github.com/stevenling/lintcode-new-hand-fifty-problems/blob/main/docs/08-判断数字与字母字符.md) | 
+| 09 | [月份天数](https://github.com/stevenling/lintcode-new-hand-fifty-problems/blob/main/docs/09-月份天数.md) | 
+| 10 | [闰年](https://github.com/stevenling/lintcode-new-hand-fifty-problems/blob/main/docs/10-闰年.md) | 
 ### 2.3 数组与循环
 | 序号 | 题目 |
 | :----:| :----: |
-| 11 | [生成给定大小的数组](docs/11-生成给定大小的数组.md) | 
-| 12 | [交换数组两个元素]() | 
-| 13 | [整数排序]() | 
+| 11 | [生成给定大小的数组](https://github.com/stevenling/lintcode-new-hand-fifty-problems/blob/main/docs/11-生成给定大小的数组.md) | 
+| 12 | [交换数组两个元素](https://github.com/stevenling/lintcode-new-hand-fifty-problems/blob/main/docs/12-交换数组两个元素.md) | 
+| 13 | [整数排序](https://github.com/stevenling/lintcode-new-hand-fifty-problems/blob/main/13-整数排序.md) | 
 | 14 | [数组的最大值]() | 
 | 15 | [打印X]() | 
 | 16 | [寻找素数]() | 
