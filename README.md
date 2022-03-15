@@ -25,8 +25,8 @@
 | :----:| :----: |
 | 11 | [生成给定大小的数组](https://github.com/stevenling/lintcode-new-hand-fifty-problems/blob/main/docs/11-生成给定大小的数组.md) | 
 | 12 | [交换数组两个元素](https://github.com/stevenling/lintcode-new-hand-fifty-problems/blob/main/docs/12-交换数组两个元素.md) | 
-| 13 | [整数排序](https://github.com/stevenling/lintcode-new-hand-fifty-problems/blob/main/13-整数排序.md) | 
-| 14 | [数组的最大值]() | 
+| 13 | [整数排序](https://github.com/stevenling/lintcode-new-hand-fifty-problems/blob/main/docs/13-整数排序.md) | 
+| 14 | [数组的最大值](https://github.com/stevenling/lintcode-new-hand-fifty-problems/blob/main/docs/14-数组的最大值.md) | 
 | 15 | [打印X]() | 
 | 16 | [寻找素数]() | 
 | 17 | [寻找最大值]() | 
